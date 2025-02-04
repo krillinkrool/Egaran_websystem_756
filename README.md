@@ -1,2 +1,2 @@
 # Egaran_websystem_756
- Lab Experiment 2
+ This is my first repository.
